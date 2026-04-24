@@ -1,0 +1,9 @@
+metric,value
+mean_dsc,0.5242
+mean_iou,0.3736
+precision,0.5466
+recall,0.5210
+f1_score,0.5242
+dsc_NCR,0.7322
+dsc_ED,0.3147
+dsc_ET,0.5256
