@@ -1,0 +1,7 @@
+metric,value
+mean_dsc,0.9922
+mean_iou,0.9846
+precision,0.9931
+recall,0.9914
+f1_score,0.9922
+dsc_lesion,0.9922
