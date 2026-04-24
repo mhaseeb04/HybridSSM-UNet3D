@@ -1,0 +1,14 @@
+metric,value
+mean_dsc,0.7702
+mean_iou,0.7314
+precision,0.7923
+recall,0.7810
+f1_score,0.7702
+dsc_aorta,0.7358
+dsc_gallbladder,0.4205
+dsc_spleen,0.0053
+dsc_left_kidney,1.0000
+dsc_right_kidney,1.0000
+dsc_liver,1.0000
+dsc_stomach,1.0000
+dsc_pancreas,1.0000
